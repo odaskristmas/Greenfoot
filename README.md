@@ -214,4 +214,4 @@ Greenfoot is offered as a **full free version** with all features and updates in
 Ready to start your Java programming journey? **Download Greenfoot now and unlock your potential!**
 
 ---
-**Last updated:** 2026-10-12 17:22:52 UTC
+**Last updated:** 2026-10-13 00:09:48 UTC
